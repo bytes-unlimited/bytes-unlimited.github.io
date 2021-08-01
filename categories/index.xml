@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Bytes Unlimited</title>
-    <link>https://bytes-unlimited.github.io/categories/</link>
+    <link>https://bytesunlimited.org/categories/</link>
     <description>Recent content in Categories on Bytes Unlimited</description>
     <image>
-      <url>https://bytes-unlimited.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://bytes-unlimited.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://bytesunlimited.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://bytesunlimited.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 08 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bytes-unlimited.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bytesunlimited.org/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Development</title>
-      <link>https://bytes-unlimited.github.io/categories/development/</link>
+      <link>https://bytesunlimited.org/categories/development/</link>
       <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://bytes-unlimited.github.io/categories/development/</guid>
+      <guid>https://bytesunlimited.org/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Management</title>
-      <link>https://bytes-unlimited.github.io/categories/management/</link>
+      <link>https://bytesunlimited.org/categories/management/</link>
       <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://bytes-unlimited.github.io/categories/management/</guid>
+      <guid>https://bytesunlimited.org/categories/management/</guid>
       <description></description>
     </item>
     
