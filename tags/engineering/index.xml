@@ -9,7 +9,16 @@
       <link>https://bytesunlimited.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 08 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bytesunlimited.org/tags/engineering/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bytesunlimited.org/tags/engineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>API versioning</title>
+      <link>https://bytesunlimited.org/2021/08/api-versioning/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bytesunlimited.org/2021/08/api-versioning/</guid>
+      <description>How to version REST APIs like Stripe?</description>
+    </item>
+    
     <item>
       <title>Stateful Applications</title>
       <link>https://bytesunlimited.org/2021/03/stateful-applications/</link>

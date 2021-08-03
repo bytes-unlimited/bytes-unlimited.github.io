@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>server-side on Bytes Unlimited</title>
-    <link>https://bytesunlimited.org/tags/server-side/</link>
-    <description>Recent content in server-side on Bytes Unlimited</description>
+    <title>API on Bytes Unlimited</title>
+    <link>https://bytesunlimited.org/categories/api/</link>
+    <description>Recent content in API on Bytes Unlimited</description>
     <image>
       <url>https://bytesunlimited.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://bytesunlimited.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bytesunlimited.org/tags/server-side/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bytesunlimited.org/categories/api/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>API versioning</title>
       <link>https://bytesunlimited.org/2021/08/api-versioning/</link>
@@ -17,15 +17,6 @@
       
       <guid>https://bytesunlimited.org/2021/08/api-versioning/</guid>
       <description>How to version REST APIs like Stripe?</description>
-    </item>
-    
-    <item>
-      <title>Stateful Applications</title>
-      <link>https://bytesunlimited.org/2021/03/stateful-applications/</link>
-      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bytesunlimited.org/2021/03/stateful-applications/</guid>
-      <description>What is a stateful application? Why do we need this architcture?</description>
     </item>
     
   </channel>
