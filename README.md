@@ -1,4 +1,4 @@
-# bytesunlimited.github.io
+# bytesunlimited.org
 Bytes Unlimited!
 
-https://bytes-unlimited.github.io
+https://bytesunlimited.org
